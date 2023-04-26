@@ -1,21 +1,17 @@
 Artikelanlage 
 - mehr als 2 Nachkommastellen möglich
 - Felder werden nicht gecleared nach Abschicken des Formulars
-
+- Beim Anlegen ist das Wort "Ware" falsch geschrieben
+- Farbe ist sehr schlecht zu lesen ("Artikel anlegen Button")
+- Validierung der Emailadresse gibt den Fehler: Die Telefonnummer ist nicht valide
  
 
 Artikelübersicht
 - Die neuesten Artikel sollen in der Liste ganz oben angezeigt werden
 - Preisfilter falsch
+- Navigation falsch -> Anstatt zu Vendor Seite kommt man auf Willhaben
 
- 
 
 Detailansicht
 - E-mail-Adresse wird nicht angezeigt
-
- 
-Typo: Beim Anlegen ist das Wort "Ware" falsch geschrieben
-Artikel können nicht gelöscht werden
-Farbe ist sehr schlecht zu lesen
-Navigation falsch -> Ansatt zu Vendor SEite kommt man auf die Hauptseite zurück
-Validierung der Emailadresse gibt den Fehler: Die Telefonnummer ist nicht valide
+- Artikel können nicht gelöscht werden
