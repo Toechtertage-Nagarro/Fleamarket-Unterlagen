@@ -1,9 +1,13 @@
+Startseite
+- Typo: Willkommen mit einem m
+
 Artikelanlage 
 - mehr als 2 Nachkommastellen möglich
 - Felder werden nicht gecleared nach Abschicken des Formulars
 - Beim Anlegen ist das Wort "Ware" falsch geschrieben
 - Farbe ist sehr schlecht zu lesen ("Artikel anlegen Button")
 - Validierung der Emailadresse gibt den Fehler: Die Telefonnummer ist nicht valide
+- Bei den Kategorien laut US "Bekleidung" statt "Gewand", Schmuck fehlt
  
 
 Artikelübersicht
